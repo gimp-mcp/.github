@@ -7,6 +7,7 @@ Home of [gimp-mcp](https://github.com/gimp-mcp/gimp-mcp), an open source [MCP](h
 - Works with GIMP 3.2+
 
 **Get started:** see the [README](https://github.com/gimp-mcp/gimp-mcp#readme).
+
 **Contribute:** issues and pull requests are welcome.
 
 Created and maintained by [@maorcc](https://github.com/maorcc). Licensed under GPL v3.
