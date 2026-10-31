@@ -10,4 +10,4 @@ Home of [gimp-mcp](https://github.com/gimp-mcp/gimp-mcp), an open source [MCP](h
 
 **Contribute:** issues and pull requests are welcome.
 
-Created and maintained by [@maorcc](https://github.com/maorcc). Licensed under GPL v3.
+Created by [@maorcc](https://github.com/maorcc). Licensed under GPL v3.
